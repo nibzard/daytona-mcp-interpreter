@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/mseep-audited.png)](https://mseep.ai/app/nkkko-daytona-mcp-interpreter)
+
 # Daytona MCP Interpreter
 
 A Model Context Protocol server that provides Python code execution capabilities in ephemeral Daytona sandboxes.
